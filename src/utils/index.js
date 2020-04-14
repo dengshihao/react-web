@@ -90,3 +90,5 @@ export function splitUrl(url) {
   }
   return json;
 }
+
+console.log("master")
